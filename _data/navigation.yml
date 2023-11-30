@@ -14,22 +14,18 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "Experiences"
-    url: /talks/
 
+  - title: "CV"
+    # url: /cv/
+    url: /files/Resume.pdf
+    
   - title: "Projects"
     url: /talks/
-
-  - title: "Education"
-    url: /portfolio/
   
   - title: "Certificates"
     url: /portfolio/
     
-  - title: "CV"
-    # url: /cv/
-    url: /files/Resume.pdf
+
 
   
     
