@@ -4,4 +4,12 @@ excerpt: "Organizer: Facebook and Coder School<br/><img src='/images/DevC.jpg'/>
 collection: certificates
 ---
 
+Description:
+Fraud detection on identification cards. It supports staff to speed up their validation process. Solve 3 scopes below:
+
+OCR: get information from ID card (Google Cloud Vision API).
+
+Face comparison: compare the face on the ID card and that on the selfie photo (Amazon Rekognition – AWS).
+
+Document template check: validate the template (Template Matching – OpenCV).
 
