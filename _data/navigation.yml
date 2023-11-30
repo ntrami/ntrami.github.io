@@ -1,30 +1,37 @@
 # main links links
 main:
-  - title: "Experience"
-    url: /portfolio/
-  
-  - title: "Projects"
-    url: /publications/
-  
-  - title: "Education"
-    url: /publications/
-  
-- title: "Certificate"
-    url: /publications/
-
-  - title: "CV"
-    # url: /cv/
-    url: /files/Resume.pdf
-    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  - title: "Experiences"
+    url: /talks/
+
+  - title: "Projects"
+    url: /talks/
+
+  - title: "Education"
+    url: /portfolio/
+  
+  - title: "Certificates"
+    url: /portfolio/
+    
+  - title: "CV"
+    # url: /cv/
+    url: /files/Resume.pdf
+
+  
     
   # - title: "Guide"
   #   url: /markdown/
