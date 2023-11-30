@@ -1,15 +1,18 @@
 ---
 title: "First Price: Developer circles Vietnam innovation challenge"
-excerpt: "Organizer: Facebook and Coder School<br/><img src='/images/DevC.jpg'/>"
+excerpt: "Organizer: Facebook and Coder School<br/><img src='/images/DevC.jpg width="227" 
+     height="330" '/>"
 collection: certificates
 ---
 
 Description:
 Fraud detection on identification cards. It supports staff to speed up their validation process. Solve 3 scopes below:
 
-OCR: get information from ID card (Google Cloud Vision API).
++ OCR: get information from ID card (Google Cloud Vision API).
 
-Face comparison: compare the face on the ID card and that on the selfie photo (Amazon Rekognition – AWS).
++ Face comparison: compare the face on the ID card and that on the selfie photo (Amazon Rekognition – AWS).
 
-Document template check: validate the template (Template Matching – OpenCV).
++ Document template check: validate the template (Template Matching – OpenCV).
+
+
 
