@@ -1,18 +1,19 @@
 ---
-title: "First Price: Developer circles Vietnam innovation challenge"
-excerpt: "Organizer: Facebook and Coder School<br/><img src='/images/DevC.jpg width="227" 
-     height="330" '/>"
-collection: certificates
+title: "DeepLearning.AI TensorFlow Developer"
+excerpt: "Organizer: Coursera <br/><img src='/images/DL Cert.png' width='565' height='435'>"
+collection: certifcicates
 ---
 
 Description:
-Fraud detection on identification cards. It supports staff to speed up their validation process. Solve 3 scopes below:
+Completed 4 courses:
 
-+ OCR: get information from ID card (Google Cloud Vision API).
++ Introduction to TensorFlow for AI, ML, and DL
 
-+ Face comparison: compare the face on the ID card and that on the selfie photo (Amazon Rekognition – AWS).
++ Convolutional Neural Networks in TensorFlow
 
-+ Document template check: validate the template (Template Matching – OpenCV).
++ Natural Language Processing in TensorFlow
+
++ Sequences, Time Series, and Prediction
 
 
 
